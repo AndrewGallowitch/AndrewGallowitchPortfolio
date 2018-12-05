@@ -123,7 +123,7 @@ form.addEventListener("submit", function(e) {
   }, 1);
 });
 
-/*! cash-dom 1.3.5, https://github.com/kenwheeler/cash @license MIT */
+
 (function(factory) {
   window.cash = factory();
 })(function() {
