@@ -4,4 +4,4 @@ This is my Portfolio where you can see all of my previous projects that I have c
 
 Check it out and Hire Me!
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Here is the Link to my Portfolio](https://andrewgallowitch.github.io/AndrewGallowitchPortfolio/ "My Portfolio")
